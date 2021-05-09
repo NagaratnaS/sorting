@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 public class Student implements Comparable<Student>{
-	int rollNumber;
+	int studentRollNo;
 	String studentName;
 	int studentAge;
 	public Student(int rollno, String name, int age) {

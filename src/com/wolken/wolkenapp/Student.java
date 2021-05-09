@@ -5,8 +5,8 @@ import java.io.*;
 
 public class Student implements Comparable<Student>{
 	int rollNo;
-	String studentName;
-	int studentAge;
+	String sname;
+	int sage;
 	public Student(int rollno, String name, int age) {
 		super();
 		this.rollno = rollno;

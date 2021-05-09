@@ -4,8 +4,8 @@ import java.util.Comparator;
 
 public class College  {
 
-	private int collegenumber;
-	private String collegeName;
+	private int cnumber;
+	private String cname;
 	public int getCollegenumber() {
 		return collegenumber;
 	}
